@@ -1,8 +1,8 @@
 # Front
 
-##PopTxt
+## PopTxt
 [Link](https://git-adrien.github.io/Front/popTxt/)
 
 
-##ColorTxt
+## ColorTxt
 [Link](https://git-adrien.github.io/Front/colorTxt/)
